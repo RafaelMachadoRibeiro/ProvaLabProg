@@ -18,7 +18,7 @@ Resposta correta:
 Resposta que marquei: 
 '''
 
-
 # Eu acertei a questão
 
-# Eu justiquei que irá apresentar as saídas adequadas, pois quando os valores dos números não está adequado, ele caí nas condicionais, e quando ele atende os requisitos ele calcula o Alpha. Essa justificativa está baseada no teste de mesa que eu fiz na prova. 
+# Eu justiquei que irá apresentar as saídas adequadas, pois quando os valores dos números não está adequado, ele caí nas condicionais, e quando ele atende os requisitos ele calcula o Alpha. 
+#Essa justificativa está baseada no teste de mesa que eu fiz na prova. 
