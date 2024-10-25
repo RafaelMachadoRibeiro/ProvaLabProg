@@ -7,9 +7,9 @@ def func(n):
 print(func(3))
 
 '''
-Saída Obtida: 
+Saída Obtida: 6
 
-Resposta correta: 
+Resposta correta: 6
 
-Resposta que marquei: 
+Resposta que marquei: 6
 '''
