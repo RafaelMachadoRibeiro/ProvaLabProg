@@ -40,9 +40,9 @@ def soma_diagonal_principalE(matriz):
     return soma
 
 '''
-Saída Obtida: 
+Saída Obtida: Alternativa A
 
-Resposta correta: 
+Resposta correta: Alternativa D
 
-Resposta que marquei: 
+Resposta que marquei: A resposta que marquei estava incorreta, pois a Alternativa D soma os elementos da diagonal secundária. A Alternativa A soma corretamente os elementos da diagonal principal.
 '''
