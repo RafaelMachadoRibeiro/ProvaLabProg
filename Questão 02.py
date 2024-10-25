@@ -3,9 +3,9 @@ for i in range(1,5):
         print(i,end='')
 
 '''
-Saída Obtida: 
+Saída Obtida: 2 4
 
-Resposta correta: 
+Resposta correta: 2 4 
 
-Resposta que marquei: 
+Resposta que marquei: 2 4
 '''
