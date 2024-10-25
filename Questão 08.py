@@ -22,13 +22,6 @@ def class_imc(imc):
     else:
         print('Obesidade Grau III')
 
-'''
-Saída Obtida: 
-
-Resposta correta: 
-
-Resposta que marquei: 
-'''
 
 # Eu acertei a questão porém eu perdi 0.1 pelo fato de eu ter colocado "÷" no lugar de "/" e "•" ao invés de "*".
 
