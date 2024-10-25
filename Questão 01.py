@@ -5,9 +5,9 @@ print(c)
 
 
 '''
-Saída Obtida: 
+Saída Obtida: '55'
 
-Resposta correta: 
+Resposta correta: '55'
 
-Resposta que marquei: 
+Resposta que marquei: '55' 
 '''
