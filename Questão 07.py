@@ -21,5 +21,5 @@ Resposta correta: Todos os códigos A, B e C
 
 Resposta que marquei: Apenas código A e C
 
-Análise: firmo que apenas os códigos A e C têm uma abordagem semelhante em como constroem a lista, nisso eu pensei que não era todos executavam o mesmo resultado.
+Análise: Afirmo que apenas os códigos A e C têm uma abordagem semelhante em como constroem a lista, nisso eu pensei que não era todos executavam o mesmo resultado.
 '''
