@@ -15,9 +15,11 @@ while i < 5:
 print(listaC)
 
 '''
-Saída Obtida: 
+Saída Obtida: [0, 1, 2, 3, 4]
 
-Resposta correta: 
+Resposta correta: Todos os códigos A, B e C
 
-Resposta que marquei: 
+Resposta que marquei: Apenas código A e C
+
+Análise: firmo que apenas os códigos A e C têm uma abordagem semelhante em como constroem a lista, nisso eu pensei que não era todos executavam o mesmo resultado.
 '''
